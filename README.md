@@ -11,25 +11,25 @@ Yaptığım deneyin kuruluşunu nerede nasıl  hangi maddelerle ne kadar zamn al
 ##1. Deneye Başlamadan Önce Veri Toplama
 bu kısımda özellikle rahat ettim çünkü bu konu ile alakalı çok fazla kaynak vardı. sadece bir tür üzeründen değil aynı zamanda farklı pupp-pupp motorları içinde farklı yapım yöntemleri vardı. Videolar ve web siteleri detaylı bir şekide anlatımları vardı. püf noktalarını not alarak bunların deney yapılışı sırasında önemli olacağını düşündüm. Daha sonra deney malzemeleri ve ortamını hazırlak için harekete geçtim.
 
-2. Deney Ortamı
+##2. Deney Ortamı
     
     mutfak benim için uygun bir yer oldu. çünkü ateş ile etkileşimim ve su gibi bir etmenle en az risk alacağım yer orası oldu. ayrıca deneyin hazırlenışı açısından geniş bir alan sundu. 
 
-3. Deney Malzemeleri
+##3. Deney Malzemeleri
 
 deney malzemeleri oldukça az 
 
-1 2 adet 220ml kola kutusu
-2 2 adet mum
-3 çaklmak
-4 karga burnu
-5 makas 
+1. 2 adet 220ml kola kutusu
+2. 2 adet mum
+3. çaklmak
+4. karga burnu
+5. makas 
 
-Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
+##Deneyi Yapanlar ve Deneyin Ne Kadar Sürdüğü
 
 deneyi babam ve ben yaptım. kola kutusunun kesimi işin yardım istedim. deney yaklaşık olarak 3 saat sürdü. 
 
-Yöntem
+##Yöntem
 
 ilk olarak kola kutularının taban ve tavan kısımlarını kestik. daha sonra kalan kısmı ikiye katlayarak kenarlarını karga burnu ile kıvırdım. sonrasında su çıkış kısmını açtıktan sonra motorum hazır oldu. sırada ise teknenin yapımına geldi. bunun için diğer kutu kolayı kullandım. bunun kenarlarını kıvırdım ve tekne holine getirdim. daha sonra tekne ile motor kısmını birleştirdim. ilk teknem su aldığı için battı. daha sonra daha iyisini yaparak test ettim. 
 
